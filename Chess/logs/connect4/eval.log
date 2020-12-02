@@ -1,0 +1,99 @@
+2020-12-01 16:26:33,287@connect4_zero.manager INFO # config type: normal
+2020-12-01 16:26:45,342@tensorflow WARNING # From src\connect4_zero\lib\tf_util.py:12: The name tf.ConfigProto is deprecated. Please use tf.compat.v1.ConfigProto instead.
+
+2020-12-01 16:26:45,344@tensorflow WARNING # From src\connect4_zero\lib\tf_util.py:13: The name tf.GPUOptions is deprecated. Please use tf.compat.v1.GPUOptions instead.
+
+2020-12-01 16:26:45,344@tensorflow WARNING # From src\connect4_zero\lib\tf_util.py:18: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+2020-12-01 16:26:45,597@connect4_zero.agent.model_connect4 DEBUG # loading model from C:\My Github\connect4-alpha-zero\data\model\model_best_config.json
+2020-12-01 16:26:45,600@tensorflow WARNING # From C:\Users\shree\.conda\envs\connect4Zeta\lib\site-packages\keras\backend\tensorflow_backend.py:442: The name tf.placeholder is deprecated. Please use tf.compat.v1.placeholder instead.
+
+2020-12-01 16:26:45,675@tensorflow WARNING # From C:\Users\shree\.conda\envs\connect4Zeta\lib\site-packages\keras\backend\tensorflow_backend.py:3543: The name tf.random_uniform is deprecated. Please use tf.random.uniform instead.
+
+2020-12-01 16:26:45,835@tensorflow WARNING # From C:\Users\shree\.conda\envs\connect4Zeta\lib\site-packages\keras\backend\tensorflow_backend.py:1188: calling reduce_sum_v1 (from tensorflow.python.ops.math_ops) with keep_dims is deprecated and will be removed in a future version.
+Instructions for updating:
+keep_dims is deprecated, use keepdims instead
+2020-12-01 16:26:46,001@tensorflow WARNING # From C:\Users\shree\.conda\envs\connect4Zeta\lib\site-packages\keras\backend\tensorflow_backend.py:112: The name tf.get_default_graph is deprecated. Please use tf.compat.v1.get_default_graph instead.
+
+2020-12-01 16:26:48,088@tensorflow WARNING # From C:\Users\shree\.conda\envs\connect4Zeta\lib\site-packages\keras\backend\tensorflow_backend.py:1205: calling reduce_prod_v1 (from tensorflow.python.ops.math_ops) with keep_dims is deprecated and will be removed in a future version.
+Instructions for updating:
+keep_dims is deprecated, use keepdims instead
+2020-12-01 16:26:48,646@tensorflow WARNING # From C:\Users\shree\.conda\envs\connect4Zeta\lib\site-packages\keras\backend\tensorflow_backend.py:153: The name tf.get_default_session is deprecated. Please use tf.compat.v1.get_default_session instead.
+
+2020-12-01 16:26:48,658@tensorflow WARNING # From C:\Users\shree\.conda\envs\connect4Zeta\lib\site-packages\keras\backend\tensorflow_backend.py:333: The name tf.global_variables is deprecated. Please use tf.compat.v1.global_variables instead.
+
+2020-12-01 16:26:48,669@tensorflow WARNING # From C:\Users\shree\.conda\envs\connect4Zeta\lib\site-packages\keras\backend\tensorflow_backend.py:341: The name tf.variables_initializer is deprecated. Please use tf.compat.v1.variables_initializer instead.
+
+2020-12-01 16:26:49,326@connect4_zero.agent.model_connect4 DEBUG # loaded model digest = 1cd42ea17afc8911e072d2d18d38ed591ec41464716a1c59defb0ffd2bc10981
+2020-12-01 16:26:49,328@connect4_zero.agent.model_connect4 DEBUG # loading model from C:\My Github\connect4-alpha-zero\data\model\next_generation\model_20201201-134843.107467\model_config.json
+2020-12-01 16:26:52,966@connect4_zero.agent.model_connect4 DEBUG # loaded model digest = 846bb42ac47b238f11b7fbbb8329b16b89ad83b5529924ed7cb46c77d543a26a
+2020-12-01 16:26:52,976@connect4_zero.worker.evaluate DEBUG # start evaluate model C:\My Github\connect4-alpha-zero\data\model\next_generation\model_20201201-134843.107467
+2020-12-01 16:26:52,983@asyncio DEBUG # Using selector: SelectSelector
+2020-12-01 16:27:27,221@connect4_zero.worker.evaluate DEBUG # game 0: ng_win=0 white_is_best_model=False winning rate 0.0%
+2020-12-01 16:38:21,437@connect4_zero.manager INFO # config type: normal
+2020-12-01 16:38:25,232@tensorflow WARNING # From src\connect4_zero\lib\tf_util.py:12: The name tf.ConfigProto is deprecated. Please use tf.compat.v1.ConfigProto instead.
+
+2020-12-01 16:38:25,258@tensorflow WARNING # From src\connect4_zero\lib\tf_util.py:13: The name tf.GPUOptions is deprecated. Please use tf.compat.v1.GPUOptions instead.
+
+2020-12-01 16:38:25,266@tensorflow WARNING # From src\connect4_zero\lib\tf_util.py:18: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+2020-12-01 16:38:25,607@connect4_zero.agent.model_connect4 DEBUG # loading model from C:\My Github\connect4-alpha-zero\data\model\model_best_config.json
+2020-12-01 16:38:25,609@tensorflow WARNING # From C:\Users\shree\.conda\envs\connect4Zeta\lib\site-packages\keras\backend\tensorflow_backend.py:442: The name tf.placeholder is deprecated. Please use tf.compat.v1.placeholder instead.
+
+2020-12-01 16:38:25,631@tensorflow WARNING # From C:\Users\shree\.conda\envs\connect4Zeta\lib\site-packages\keras\backend\tensorflow_backend.py:3543: The name tf.random_uniform is deprecated. Please use tf.random.uniform instead.
+
+2020-12-01 16:38:25,702@tensorflow WARNING # From C:\Users\shree\.conda\envs\connect4Zeta\lib\site-packages\keras\backend\tensorflow_backend.py:1188: calling reduce_sum_v1 (from tensorflow.python.ops.math_ops) with keep_dims is deprecated and will be removed in a future version.
+Instructions for updating:
+keep_dims is deprecated, use keepdims instead
+2020-12-01 16:38:25,880@tensorflow WARNING # From C:\Users\shree\.conda\envs\connect4Zeta\lib\site-packages\keras\backend\tensorflow_backend.py:112: The name tf.get_default_graph is deprecated. Please use tf.compat.v1.get_default_graph instead.
+
+2020-12-01 16:38:28,058@tensorflow WARNING # From C:\Users\shree\.conda\envs\connect4Zeta\lib\site-packages\keras\backend\tensorflow_backend.py:1205: calling reduce_prod_v1 (from tensorflow.python.ops.math_ops) with keep_dims is deprecated and will be removed in a future version.
+Instructions for updating:
+keep_dims is deprecated, use keepdims instead
+2020-12-01 16:38:28,797@tensorflow WARNING # From C:\Users\shree\.conda\envs\connect4Zeta\lib\site-packages\keras\backend\tensorflow_backend.py:153: The name tf.get_default_session is deprecated. Please use tf.compat.v1.get_default_session instead.
+
+2020-12-01 16:38:28,802@tensorflow WARNING # From C:\Users\shree\.conda\envs\connect4Zeta\lib\site-packages\keras\backend\tensorflow_backend.py:333: The name tf.global_variables is deprecated. Please use tf.compat.v1.global_variables instead.
+
+2020-12-01 16:38:28,810@tensorflow WARNING # From C:\Users\shree\.conda\envs\connect4Zeta\lib\site-packages\keras\backend\tensorflow_backend.py:341: The name tf.variables_initializer is deprecated. Please use tf.compat.v1.variables_initializer instead.
+
+2020-12-01 16:38:29,402@connect4_zero.agent.model_connect4 DEBUG # loaded model digest = 1cd42ea17afc8911e072d2d18d38ed591ec41464716a1c59defb0ffd2bc10981
+2020-12-01 16:38:29,417@connect4_zero.agent.model_connect4 DEBUG # loading model from C:\My Github\connect4-alpha-zero\data\model\next_generation\model_20201201-134843.107467\model_config.json
+2020-12-01 16:38:34,015@connect4_zero.agent.model_connect4 DEBUG # loaded model digest = 846bb42ac47b238f11b7fbbb8329b16b89ad83b5529924ed7cb46c77d543a26a
+2020-12-01 16:38:34,028@connect4_zero.worker.evaluate DEBUG # start evaluate model C:\My Github\connect4-alpha-zero\data\model\next_generation\model_20201201-134843.107467
+2020-12-01 16:38:34,044@asyncio DEBUG # Using selector: SelectSelector
+2020-12-01 16:39:35,327@connect4_zero.worker.evaluate DEBUG # game 0: ng_win=0 white_is_best_model=True winning rate 0.0%
+2020-12-01 16:40:30,605@connect4_zero.worker.evaluate DEBUG # game 1: ng_win=0 white_is_best_model=True winning rate 0.0%
+2020-12-01 16:41:53,074@connect4_zero.worker.evaluate DEBUG # game 2: ng_win=0 white_is_best_model=False winning rate 0.0%
+2020-12-01 16:43:04,315@connect4_zero.worker.evaluate DEBUG # game 3: ng_win=0 white_is_best_model=False winning rate 0.0%
+2020-12-01 16:43:52,188@connect4_zero.worker.evaluate DEBUG # game 4: ng_win=0 white_is_best_model=True winning rate 0.0%
+2020-12-01 16:44:40,588@connect4_zero.worker.evaluate DEBUG # game 5: ng_win=0 white_is_best_model=True winning rate 0.0%
+2020-12-01 16:45:51,042@connect4_zero.worker.evaluate DEBUG # game 6: ng_win=0 white_is_best_model=False winning rate 0.0%
+2020-12-01 16:46:38,394@connect4_zero.worker.evaluate DEBUG # game 7: ng_win=0 white_is_best_model=True winning rate 0.0%
+2020-12-01 16:47:49,093@connect4_zero.worker.evaluate DEBUG # game 8: ng_win=0 white_is_best_model=False winning rate 0.0%
+2020-12-01 16:49:00,449@connect4_zero.worker.evaluate DEBUG # game 9: ng_win=0 white_is_best_model=False winning rate 0.0%
+2020-12-01 16:49:48,680@connect4_zero.worker.evaluate DEBUG # game 10: ng_win=0 white_is_best_model=True winning rate 0.0%
+2020-12-01 16:50:56,948@connect4_zero.worker.evaluate DEBUG # game 11: ng_win=0 white_is_best_model=False winning rate 0.0%
+2020-12-01 16:51:29,515@connect4_zero.worker.evaluate DEBUG # game 12: ng_win=1 white_is_best_model=False winning rate 7.7%
+2020-12-01 16:52:34,860@connect4_zero.worker.evaluate DEBUG # game 13: ng_win=0 white_is_best_model=False winning rate 7.1%
+2020-12-01 16:53:46,547@connect4_zero.worker.evaluate DEBUG # game 14: ng_win=0 white_is_best_model=False winning rate 6.7%
+2020-12-01 16:54:42,321@connect4_zero.worker.evaluate DEBUG # game 15: ng_win=0 white_is_best_model=True winning rate 6.2%
+2020-12-01 16:55:55,330@connect4_zero.worker.evaluate DEBUG # game 16: ng_win=0 white_is_best_model=False winning rate 5.9%
+2020-12-01 16:56:46,794@connect4_zero.worker.evaluate DEBUG # game 17: ng_win=0 white_is_best_model=True winning rate 5.6%
+2020-12-01 16:57:43,481@connect4_zero.worker.evaluate DEBUG # game 18: ng_win=0 white_is_best_model=True winning rate 5.3%
+2020-12-01 16:57:43,503@connect4_zero.worker.evaluate DEBUG # lose count reach 18 so give up challenge
+2020-12-01 16:57:43,503@connect4_zero.worker.evaluate DEBUG # winning rate 5.3%
+2020-12-01 16:57:43,507@connect4_zero.agent.model_connect4 DEBUG # loading model from C:\My Github\connect4-alpha-zero\data\model\next_generation\model_20201201-165537.727155\model_config.json
+2020-12-01 16:57:48,794@connect4_zero.agent.model_connect4 DEBUG # loaded model digest = 088488812894fde9ce15ebe50d1aebe4a1c1e7c907b30ae1376e8593fa5a6910
+2020-12-01 16:57:48,811@connect4_zero.worker.evaluate DEBUG # start evaluate model C:\My Github\connect4-alpha-zero\data\model\next_generation\model_20201201-165537.727155
+2020-12-01 16:59:47,471@connect4_zero.worker.evaluate DEBUG # game 0: ng_win=None white_is_best_model=True winning rate 0.0%
+2020-12-01 17:00:33,184@connect4_zero.worker.evaluate DEBUG # game 1: ng_win=1 white_is_best_model=False winning rate 100.0%
+2020-12-01 17:02:27,395@connect4_zero.worker.evaluate DEBUG # game 2: ng_win=None white_is_best_model=True winning rate 100.0%
+2020-12-01 17:03:17,418@connect4_zero.worker.evaluate DEBUG # game 3: ng_win=1 white_is_best_model=False winning rate 100.0%
+2020-12-01 17:04:04,494@connect4_zero.worker.evaluate DEBUG # game 4: ng_win=1 white_is_best_model=False winning rate 100.0%
+2020-12-01 17:06:05,024@connect4_zero.worker.evaluate DEBUG # game 5: ng_win=None white_is_best_model=True winning rate 100.0%
+2020-12-01 17:06:50,040@connect4_zero.worker.evaluate DEBUG # game 6: ng_win=1 white_is_best_model=False winning rate 100.0%
+2020-12-01 17:08:42,320@connect4_zero.worker.evaluate DEBUG # game 7: ng_win=None white_is_best_model=True winning rate 100.0%
+2020-12-01 17:10:43,199@connect4_zero.worker.evaluate DEBUG # game 8: ng_win=None white_is_best_model=True winning rate 100.0%
+2020-12-01 17:11:27,505@connect4_zero.worker.evaluate DEBUG # game 9: ng_win=1 white_is_best_model=False winning rate 100.0%
+2020-12-01 17:12:07,391@connect4_zero.worker.evaluate DEBUG # game 10: ng_win=1 white_is_best_model=False winning rate 100.0%
+2020-12-01 17:14:00,355@connect4_zero.worker.evaluate DEBUG # game 11: ng_win=None white_is_best_model=True winning rate 100.0%

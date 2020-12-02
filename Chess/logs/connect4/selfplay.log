@@ -1,0 +1,204 @@
+2020-12-01 17:54:00,480@connect4_zero.worker.self_play DEBUG # game 1 time=0.8033735752105713 sec, turn=7: XXXX O    O      O                        - Winner:Winner.white
+2020-12-01 17:54:04,238@connect4_zero.worker.self_play DEBUG # game 2 time=3.7578933238983154 sec, turn=23:XXXOXOOO XXXXO    OOX    XOO    O X    X O - Winner:Winner.white
+2020-12-01 17:54:07,658@connect4_zero.worker.self_play DEBUG # game 3 time=3.420008659362793 sec, turn=19:X XXXOO   XOOX    XOO    OX     XO     XO  - Winner:Winner.white
+2020-12-01 17:54:13,416@connect4_zero.worker.self_play DEBUG # game 4 time=5.7575154304504395 sec, turn=25:XXXOOOX  XOXXO   XOOO   OXXX    OOO    XX  - Winner:Winner.white
+2020-12-01 17:54:53,256@connect4_zero.worker.self_play DEBUG # game 5 time=39.831764936447144 sec, turn=41:OXXOOXXOOOXXOXXXXOOXXOXOXXOOOOXOOXXXO XOOX - Winner:Winner.white
+2020-12-01 17:55:29,831@connect4_zero.worker.self_play DEBUG # game 6 time=36.572388648986816 sec, turn=38:XXOXOXOOXXOXXXOOX OXXXXX XOOOOO OXOOXO OOX - Winner:Winner.black
+2020-12-01 17:56:00,385@connect4_zero.worker.self_play DEBUG # game 7 time=30.552757263183594 sec, turn=34:XOXXOOOXX OXOXXX OOOXOX XXXOXO OOOO    XXO - Winner:Winner.black
+2020-12-01 17:56:03,486@connect4_zero.worker.self_play DEBUG # game 8 time=3.1008799076080322 sec, turn=7:XXXXO   O O                                - Winner:Winner.white
+2020-12-01 17:56:18,393@connect4_zero.worker.self_play DEBUG # game 9 time=14.905593633651733 sec, turn=21:OX XOXO O XXXX    OXO    XOO    OX     XO  - Winner:Winner.white
+2020-12-01 17:56:21,661@connect4_zero.worker.self_play DEBUG # game 10 time=3.2487258911132812 sec, turn=7:XXXXO      O      O                        - Winner:Winner.white
+2020-12-01 17:57:09,584@connect4_zero.worker.self_play DEBUG # game 11 time=47.91595411300659 sec, turn=42:XOOXOOXOXXOXXOXOXXOOXOXOOXXOOOXXXOOXXOOOXX - Winner:Winner.draw
+2020-12-01 17:57:22,002@connect4_zero.worker.self_play DEBUG # game 12 time=12.417006969451904 sec, turn=19:   OXOX   OOOX   XXXX    OXO    XOX    O   - Winner:Winner.white
+2020-12-01 17:57:25,074@connect4_zero.worker.self_play DEBUG # game 13 time=3.067000389099121 sec, turn=7:OXXXXO     O                               - Winner:Winner.white
+2020-12-01 17:57:42,841@connect4_zero.worker.self_play DEBUG # game 14 time=17.76758337020874 sec, turn=23: XXXOXO  XOXXO   XOOO   OXXX    OOO    X   - Winner:Winner.white
+2020-12-01 17:58:09,268@connect4_zero.worker.self_play DEBUG # game 15 time=26.424548625946045 sec, turn=28:XXXOXOOXOOOOXXXX  XXOO   OOO    XXX    OO  - Winner:Winner.black
+2020-12-01 17:58:24,731@connect4_zero.worker.self_play DEBUG # game 16 time=15.463694095611572 sec, turn=18: XOOOXX   OXOO    OX     XO     XX     OX  - Winner:Winner.black
+2020-12-01 17:58:53,349@connect4_zero.worker.self_play DEBUG # game 17 time=28.615814208984375 sec, turn=31:XXXOOXXXOXXOOOX XOXXOO X OOX    OXO    XOO - Winner:Winner.white
+2020-12-01 17:59:09,924@connect4_zero.worker.self_play DEBUG # game 18 time=16.575165271759033 sec, turn=21: XXOOXO X XOXO    XOX    OXX    X O    O O - Winner:Winner.white
+2020-12-01 17:59:15,732@connect4_zero.worker.self_play DEBUG # game 19 time=5.806000232696533 sec, turn=10: XOOOOX X  X      O      X                 - Winner:Winner.black
+2020-12-01 17:59:31,486@connect4_zero.worker.self_play DEBUG # game 20 time=15.753894090652466 sec, turn=21:O OXXOOO  XOXX   XXXX    XOO    O X    O   - Winner:Winner.white
+2020-12-01 18:00:09,621@connect4_zero.worker.self_play DEBUG # game 21 time=38.13409495353699 sec, turn=41:XOOXOXOOOXXXOXXXOOOXXOXOXXXOXOXOOXXXO XOOO - Winner:Winner.white
+2020-12-01 18:00:44,957@connect4_zero.worker.self_play DEBUG # game 22 time=35.33389687538147 sec, turn=35:XOOOXOOXXOOOXXXXXXXXOOO  OOXOX  XXXO   OOX - Winner:Winner.white
+2020-12-01 18:01:26,134@connect4_zero.worker.self_play DEBUG # game 23 time=41.17668628692627 sec, turn=41:XXXOOXOXOOXOXOOXXOXXXXOOXOOOXXXOXXXOO OOOX - Winner:Winner.white
+2020-12-01 18:01:45,526@connect4_zero.worker.self_play DEBUG # game 24 time=19.392408847808838 sec, turn=25:XXOXOOO  XXXOO   OOXO   XX X   OO O   XX X - Winner:Winner.white
+2020-12-01 18:01:48,183@connect4_zero.worker.self_play DEBUG # game 25 time=2.6552786827087402 sec, turn=7:OOXXXX     O                               - Winner:Winner.white
+2020-12-01 18:01:58,647@connect4_zero.worker.self_play DEBUG # game 26 time=10.464569330215454 sec, turn=13:  XXXXO    O X    O O    X O    X      O   - Winner:Winner.white
+2020-12-01 18:02:06,350@connect4_zero.worker.self_play DEBUG # game 27 time=7.693135738372803 sec, turn=12:X OOOOXX   X      O      X      O      X   - Winner:Winner.black
+2020-12-01 18:02:44,618@connect4_zero.worker.self_play DEBUG # game 28 time=38.25586986541748 sec, turn=38:XOXXXOXOOOOXXO XXXOOX XOOXXO OXOOOX XOXOXO - Winner:Winner.black
+2020-12-01 18:03:23,970@connect4_zero.worker.self_play DEBUG # game 29 time=39.350646018981934 sec, turn=39:OOXXOXXOOOXOOXXOXXOOXOX OXOOXO XOXXOX XXXO - Winner:Winner.white
+2020-12-01 18:03:45,341@connect4_zero.worker.self_play DEBUG # game 30 time=21.368823766708374 sec, turn=23: OXOXOX OXOXXO   XOOO   OXXX    OX     X   - Winner:Winner.white
+2020-12-01 18:04:10,484@connect4_zero.worker.self_play DEBUG # game 31 time=25.13188147544861 sec, turn=23:XXXXOXX   OOOX   XXXO    OOX    XOO    OO  - Winner:Winner.white
+2020-12-01 18:04:39,505@connect4_zero.worker.self_play DEBUG # game 32 time=29.020814180374146 sec, turn=28:OOOOXOOXX XOXO   XXOX   OOOX   XXXO   OX X - Winner:Winner.black
+2020-12-01 18:04:54,857@connect4_zero.worker.self_play DEBUG # game 33 time=15.351880550384521 sec, turn=19:   OOXX   XOXO    XOX    OXX    XOX    O O - Winner:Winner.white
+2020-12-01 18:05:43,535@connect4_zero.worker.self_play DEBUG # game 34 time=48.66638541221619 sec, turn=40:OXXOOXXXOOXOOXXXXOXOOXOOOOOXOX XXXOXO OXXO - Winner:Winner.black
+2020-12-01 18:05:57,508@connect4_zero.worker.self_play DEBUG # game 35 time=13.969172477722168 sec, turn=19:O XXOXX  OOXXX    OXO    XOX    O      O   - Winner:Winner.white
+2020-12-01 18:06:20,504@connect4_zero.worker.self_play DEBUG # game 36 time=22.993797302246094 sec, turn=27:XOXXOXO  XXOOO  XOXOO  XOOOX    XXO    XX  - Winner:Winner.white
+2020-12-01 18:06:37,854@connect4_zero.worker.self_play DEBUG # game 37 time=17.347927570343018 sec, turn=23:O OXOXX  XXXOO   XOXX   OXOO    OX     XO  - Winner:Winner.white
+2020-12-01 18:06:55,632@connect4_zero.worker.self_play DEBUG # game 38 time=17.764617681503296 sec, turn=22:OOOOXOX   XOOX    XXX    OOO    XXX    X O - Winner:Winner.black
+2020-12-01 18:07:38,894@connect4_zero.worker.self_play DEBUG # game 39 time=43.26015257835388 sec, turn=40:XOOXOOXOOXOXXXXOXXOXXOXOXXXOXX OOOXOO XOOO - Winner:Winner.black
+2020-12-01 18:08:01,160@connect4_zero.worker.self_play DEBUG # game 40 time=22.265818119049072 sec, turn=26:OXOOXOX  OOOOX   XXXO   XOXO    XOO    XXX - Winner:Winner.black
+2020-12-01 18:08:44,739@connect4_zero.worker.self_play DEBUG # game 41 time=43.57793855667114 sec, turn=42:OXXOXXXXXOXXOOOXXOOXOXOOOXOXOXXXOOXOXOOXOO - Winner:Winner.black
+2020-12-01 18:09:00,449@connect4_zero.worker.self_play DEBUG # game 42 time=15.708714962005615 sec, turn=18:X OOXXO   OOOO    XOX    XXX    O      X   - Winner:Winner.black
+2020-12-01 18:09:04,500@connect4_zero.worker.self_play DEBUG # game 43 time=4.049835443496704 sec, turn=7:X  O OOX      X      X                     - Winner:Winner.white
+2020-12-01 18:09:23,327@connect4_zero.worker.self_play DEBUG # game 44 time=18.82608962059021 sec, turn=22:  OXOXX   XXOO   OOXX   OOOO    XOX    X X - Winner:Winner.black
+2020-12-01 18:10:09,363@connect4_zero.worker.self_play DEBUG # game 45 time=46.03529334068298 sec, turn=40:XXXOXXOXOXXOXOOOOXOXXOXXOOOXOOOOXXOX  XXOO - Winner:Winner.black
+2020-12-01 18:10:33,889@connect4_zero.worker.self_play DEBUG # game 46 time=24.5261709690094 sec, turn=26:XXXOOXO  XOOOX   OXOO   OOXX    XOO    XXX - Winner:Winner.black
+2020-12-01 18:11:20,649@connect4_zero.worker.self_play DEBUG # game 47 time=46.758920192718506 sec, turn=42:XOXXOXOXOOOXOOOOXOOXXXXOXXXOOOXXOXOXXOOXOX - Winner:Winner.draw
+2020-12-01 18:11:23,940@connect4_zero.worker.self_play DEBUG # game 48 time=3.2821691036224365 sec, turn=7:XXXXO      O      O                        - Winner:Winner.white
+2020-12-01 18:11:42,343@connect4_zero.worker.self_play DEBUG # game 49 time=18.400614023208618 sec, turn=21: O XOXX   XOXO   OXXX   XOOO    OX     XO  - Winner:Winner.white
+2020-12-01 18:12:02,782@connect4_zero.worker.self_play DEBUG # game 50 time=20.433992385864258 sec, turn=22:XOOXXOO  OXOOX   OXXX   XOOO    X      X   - Winner:Winner.black
+2020-12-01 18:12:18,241@connect4_zero.worker.self_play DEBUG # game 51 time=15.458815813064575 sec, turn=18:XO OXXO   OOOO    XOX    OXX    X      X   - Winner:Winner.black
+2020-12-01 18:12:50,313@connect4_zero.worker.self_play DEBUG # game 52 time=32.07113814353943 sec, turn=33:OXOXOXOXX OXXXOO OOOXXO XXXXOX  O OXO  O X - Winner:Winner.white
+2020-12-01 18:13:15,295@connect4_zero.worker.self_play DEBUG # game 53 time=24.965683221817017 sec, turn=25:OXXOOXX O XOXO X  XOX O  OXX    XXO    O O - Winner:Winner.white
+2020-12-01 18:13:51,961@connect4_zero.worker.self_play DEBUG # game 54 time=36.665340185165405 sec, turn=34:XOXOXOXXOOOOOXOO  XXOXX  OOOXX  XXXOO  XOX - Winner:Winner.black
+2020-12-01 18:14:10,557@connect4_zero.worker.self_play DEBUG # game 55 time=18.594525814056396 sec, turn=18:X OOXXO   OXXO   XOXX    XO     O      O   - Winner:Winner.black
+2020-12-01 18:14:53,350@connect4_zero.worker.self_play DEBUG # game 56 time=42.78893184661865 sec, turn=38:XXOXOXOOXXOOOOXOX XXXOXX OOXXXO XXOOOO XOO - Winner:Winner.black
+2020-12-01 18:14:56,892@connect4_zero.worker.self_play DEBUG # game 57 time=3.5402848720550537 sec, turn=7: OXXXXO     O                              - Winner:Winner.white
+2020-12-01 18:15:34,331@connect4_zero.worker.self_play DEBUG # game 58 time=37.43881893157959 sec, turn=39:XOXXXOOXXOXOXOOOXXOOXOX OXXOXO XXOXXO OOXO - Winner:Winner.white
+2020-12-01 18:16:23,293@connect4_zero.worker.self_play DEBUG # game 59 time=48.95290470123291 sec, turn=40:OXXXOXXOXXXOXXXOOXXOXOOXOOOOOXX XXOOOO OOX - Winner:Winner.black
+2020-12-01 18:16:37,481@connect4_zero.worker.self_play DEBUG # game 60 time=14.186378002166748 sec, turn=17: XXXXOX   OOO     XO     OX     XX     OO  - Winner:Winner.white
+2020-12-01 18:17:03,089@connect4_zero.worker.self_play DEBUG # game 61 time=25.600390434265137 sec, turn=27:OO XXOX O XXOX O XOXO X OXOO   XOOX    X X - Winner:Winner.white
+2020-12-01 18:17:51,498@connect4_zero.worker.self_play DEBUG # game 62 time=48.387577533721924 sec, turn=40:OXXXOOXXXXOOXXXOXXXOXOOOOOXOXX OOOXOO OXXO - Winner:Winner.black
+2020-12-01 18:18:07,658@connect4_zero.worker.self_play DEBUG # game 63 time=16.157479763031006 sec, turn=19:OXXOXXO   XOOO   XXXX    OO     X      O   - Winner:Winner.white
+2020-12-01 18:18:23,281@connect4_zero.worker.self_play DEBUG # game 64 time=15.619922637939453 sec, turn=17:X XXXXOO   OOX    XX     OO     XO     O   - Winner:Winner.white
+2020-12-01 18:18:39,344@connect4_zero.worker.self_play DEBUG # game 65 time=16.058843851089478 sec, turn=17:  XXOO   XOXX    XOO     XX     OX     OO  - Winner:Winner.white
+2020-12-01 18:19:03,309@connect4_zero.worker.self_play DEBUG # game 66 time=23.964359998703003 sec, turn=23:OXXOXOXXO XOXX    XOO    OXX    OOO    X   - Winner:Winner.white
+2020-12-01 18:19:57,686@connect4_zero.worker.self_play DEBUG # game 67 time=54.37283802032471 sec, turn=41:XXOXOXXOOOXXOXXXXOOOXOXOXOOOXOOOXXX XXXOOO - Winner:Winner.white
+2020-12-01 18:20:25,648@connect4_zero.worker.self_play DEBUG # game 68 time=27.910176277160645 sec, turn=28:OOXXXOXOXOXOXXX  OXOX    OOO    OXO    XOX - Winner:Winner.black
+2020-12-01 18:20:54,361@connect4_zero.worker.self_play DEBUG # game 69 time=28.711812019348145 sec, turn=29:OXOXXXO XOXOOX XXXXOO O OOXX    XOO    OX  - Winner:Winner.white
+2020-12-01 18:21:18,198@connect4_zero.worker.self_play DEBUG # game 70 time=23.83222460746765 sec, turn=26:XOOOXXX X XOOX   XXXO   OOOX   OOOO    XX  - Winner:Winner.black
+2020-12-01 18:21:43,454@connect4_zero.worker.self_play DEBUG # game 71 time=25.25520944595337 sec, turn=25:OXXXOOX OXOOXO   XXOO    XXX    OOO    X X - Winner:Winner.white
+2020-12-01 18:22:11,967@connect4_zero.worker.self_play DEBUG # game 72 time=28.505829095840454 sec, turn=29:OO XOXXXO XOXOO  OXXXO  XOOXX   XOO    OXX - Winner:Winner.white
+2020-12-01 18:22:18,069@connect4_zero.worker.self_play DEBUG # game 73 time=6.09984827041626 sec, turn=10: XOOOOX    X      X      O      X          - Winner:Winner.black
+2020-12-01 18:22:49,163@connect4_zero.worker.self_play DEBUG # game 74 time=31.092830181121826 sec, turn=30:XOXXOXXOOXOXXO XOXOOX   OXXO    OOX    OXO - Winner:Winner.black
+2020-12-01 18:23:09,343@connect4_zero.worker.self_play DEBUG # game 75 time=20.166270971298218 sec, turn=23:X OOXOX   XOOO   XXOO   XXXX    OXO    X O - Winner:Winner.white
+2020-12-01 18:23:22,506@connect4_zero.worker.self_play DEBUG # game 76 time=13.16140604019165 sec, turn=15: OOOXX   XXXX     OX     XO     O      O   - Winner:Winner.white
+2020-12-01 18:24:16,019@connect4_zero.worker.self_play DEBUG # game 77 time=53.51141929626465 sec, turn=42:OXXXOXXXOXXXOOXOXOOOXOOOXXXOXXXOOOXOXOOXOO - Winner:Winner.draw
+2020-12-01 18:25:02,624@connect4_zero.worker.self_play DEBUG # game 78 time=46.60591745376587 sec, turn=39:OOOXXOXOXOXOXOXXXXOXOOO OXXXOX XOOXXO XOXO - Winner:Winner.white
+2020-12-01 18:25:42,500@connect4_zero.worker.self_play DEBUG # game 79 time=39.875125885009766 sec, turn=33:OOXOXXX OOXXXO XXXOOO OXXXXO   OOOX   XOOX - Winner:Winner.white
+2020-12-01 18:26:23,549@connect4_zero.worker.self_play DEBUG # game 80 time=41.045713663101196 sec, turn=36:XXXOOOXXXOXXOOXXOXOXXOOOOXOO O XOXO    XXO - Winner:Winner.black
+2020-12-01 18:26:37,037@connect4_zero.worker.self_play DEBUG # game 81 time=13.471090078353882 sec, turn=15: XOOOXX  XXXXO    O      X      O      O   - Winner:Winner.white
+2020-12-01 18:27:26,800@connect4_zero.worker.self_play DEBUG # game 82 time=49.749181270599365 sec, turn=37:XOXXOXOOOXOXOOOOOXXOOXXXOOXX O XXXO X  XOX - Winner:Winner.white
+2020-12-01 18:27:32,272@connect4_zero.worker.self_play DEBUG # game 83 time=5.4657368659973145 sec, turn=8:XOOOO X   XX                               - Winner:Winner.black
+2020-12-01 18:27:54,680@connect4_zero.worker.self_play DEBUG # game 84 time=22.407928228378296 sec, turn=22:O XXOXO  OOOOX    XOO    OXX    XOX    XX  - Winner:Winner.black
+2020-12-01 18:28:15,652@connect4_zero.worker.self_play DEBUG # game 85 time=20.96158242225647 sec, turn=22:XXXOXOO  OOOOX   XXOX    OXX    O O    X   - Winner:Winner.black
+2020-12-01 18:28:55,698@connect4_zero.worker.self_play DEBUG # game 86 time=40.03488898277283 sec, turn=36:OXXXOXXOOOOOOXXX OXXOXO OOOXOX XXXO   OXOX - Winner:Winner.black
+2020-12-01 18:28:58,916@connect4_zero.worker.self_play DEBUG # game 87 time=3.209059476852417 sec, turn=7:OO XXXX    O                               - Winner:Winner.white
+2020-12-01 18:29:13,245@connect4_zero.worker.self_play DEBUG # game 88 time=14.318662881851196 sec, turn=16:  OXOOX   OXXX   XOX     XO     O      O   - Winner:Winner.black
+2020-12-01 18:29:51,832@connect4_zero.worker.self_play DEBUG # game 89 time=38.566726207733154 sec, turn=35:OOXXOXOOXXXXOOXO OOXXX  XXXOO  XXXOO  OOOX - Winner:Winner.white
+2020-12-01 18:30:11,730@connect4_zero.worker.self_play DEBUG # game 90 time=19.894193649291992 sec, turn=22: OOOOXO   XOXO   XXXO   XOOX    XO     XX  - Winner:Winner.black
+2020-12-01 18:30:56,952@connect4_zero.worker.self_play DEBUG # game 91 time=45.214131593704224 sec, turn=39:XXXOOXXOXOOOXOXXXXXXOOOO OOXXXX XOOOOX OXO - Winner:Winner.white
+2020-12-01 18:31:00,285@connect4_zero.worker.self_play DEBUG # game 92 time=3.3321595191955566 sec, turn=7:   XXXX    O      O      O                 - Winner:Winner.white
+2020-12-01 18:31:43,424@connect4_zero.worker.self_play DEBUG # game 93 time=43.13639044761658 sec, turn=38:XXXOXXOXXXOOOXOOOXXOOXO XOXXOX XXOO O OOOX - Winner:Winner.black
+2020-12-01 18:31:59,707@connect4_zero.worker.self_play DEBUG # game 94 time=16.26527452468872 sec, turn=19:  XXOXO  OOXXO   XXXX    OO     XO     O   - Winner:Winner.white
+2020-12-01 18:32:17,122@connect4_zero.worker.self_play DEBUG # game 95 time=17.374829292297363 sec, turn=19:X XOXOO   XOXO    XXO    OXX    XO     O   - Winner:Winner.white
+2020-12-01 18:33:07,266@connect4_zero.worker.self_play DEBUG # game 96 time=50.14220976829529 sec, turn=40:OXXXOOOXOOOXXXOOXOOOXXXOOXXOXO XOXOOX XXOX - Winner:Winner.black
+2020-12-01 18:33:27,638@connect4_zero.worker.self_play DEBUG # game 97 time=20.370121717453003 sec, turn=21:  OXOXO   XOXX   XOXO   XXOO    OO     XX  - Winner:Winner.white
+2020-12-01 18:33:47,022@connect4_zero.worker.self_play DEBUG # game 98 time=19.383317470550537 sec, turn=19:XOXXOOX O XOXO    XX     XX     OO     O   - Winner:Winner.white
+2020-12-01 18:34:33,783@connect4_zero.worker.self_play DEBUG # game 99 time=46.74661207199097 sec, turn=38:XXXOXXXOOOOOOXOX OOXXXO XXXOXX OOOXOO XOOX - Winner:Winner.black
+2020-12-01 18:35:28,916@connect4_zero.worker.self_play DEBUG # game 100 time=55.13125920295715 sec, turn=40:OXXXOXXXOOOXOOXXXOOXXOOOOXXOO XXOOOX OXOXX - Winner:Winner.black
+2020-12-01 18:36:37,740@connect4_zero.worker.self_play DEBUG # game 101 time=62.171069383621216 sec, turn=35:OOOXOO XXOOXX XOXXXO OXOOOX XOXXXO OX XOX  - Winner:Winner.white
+2020-12-01 18:37:52,962@connect4_zero.worker.self_play DEBUG # game 102 time=75.2184853553772 sec, turn=37:OXOXOOXOXOOXXOXXXXOOO OOOXXX OXXOO  XOXXX  - Winner:Winner.white
+2020-12-01 18:39:03,445@connect4_zero.worker.self_play DEBUG # game 103 time=70.48324871063232 sec, turn=39:XXOXOXXOOXXOOOXXOOXXXX XXOOXO OOXXOO OXOOX - Winner:Winner.white
+2020-12-01 18:40:18,688@connect4_zero.worker.self_play DEBUG # game 104 time=75.24103355407715 sec, turn=38:XOXXXOXOOOOXXOXO XOOXOX XOXOXX XXOXOO OOXO - Winner:Winner.black
+2020-12-01 18:40:45,775@connect4_zero.worker.self_play DEBUG # game 105 time=27.068540334701538 sec, turn=21:XOOXXOX  XOOOX  OXXXX   XO O   O           - Winner:Winner.white
+2020-12-01 18:40:49,650@connect4_zero.worker.self_play DEBUG # game 106 time=3.874666213989258 sec, turn=7:OXXXXO   O                                 - Winner:Winner.white
+2020-12-01 18:42:40,896@connect4_zero.worker.self_play DEBUG # game 107 time=111.22321128845215 sec, turn=33:OXOXOXOOOXXXOXXX OOXO X XXOX X OXX  O OOO  - Winner:Winner.white
+2020-12-01 18:42:50,089@connect4_zero.worker.self_play DEBUG # game 108 time=9.175654411315918 sec, turn=7:XXXXOO      O                              - Winner:Winner.white
+2020-12-01 18:46:59,194@connect4_zero.worker.self_play DEBUG # game 109 time=249.09578275680542 sec, turn=42:OXOXXXOXOOOXOXOXXXOOXXOOXXXOXXXOOOXOOOOXOX - Winner:Winner.black
+2020-12-01 18:47:24,712@connect4_zero.worker.self_play DEBUG # game 110 time=25.516409158706665 sec, turn=13:OOOXX O XXXX     XO     O                  - Winner:Winner.white
+2020-12-01 18:48:22,266@connect4_zero.worker.self_play DEBUG # game 111 time=57.55328869819641 sec, turn=29:OXXXO OXOOXX OXXXOO  OOOXO  XXXXO     OX   - Winner:Winner.white
+2020-12-01 18:48:46,363@connect4_zero.worker.self_play DEBUG # game 112 time=24.09599995613098 sec, turn=27:XO XOXOOO OOOXX  XXOXX  OOXX   XX O   X  O - Winner:Winner.white
+2020-12-01 18:49:38,115@connect4_zero.worker.self_play DEBUG # game 113 time=51.75116944313049 sec, turn=39:XXOXOOXOOXXOOOXOOOXXXXOXXOX OXOOXX XXOXOO  - Winner:Winner.white
+2020-12-01 18:50:35,548@connect4_zero.worker.self_play DEBUG # game 114 time=57.426838397979736 sec, turn=39:XXOXOXXOOXXOOOXXOOXXXX XXOOXO OOXXOO OXOOX - Winner:Winner.white
+2020-12-01 18:51:30,266@connect4_zero.worker.self_play DEBUG # game 115 time=54.70599722862244 sec, turn=34:OXOXOOXXXOOXOXXOOXOXX XOOOX  O XXO  X OOX  - Winner:Winner.black
+2020-12-01 18:51:49,643@connect4_zero.worker.self_play DEBUG # game 116 time=19.377000331878662 sec, turn=18:XXXO   XXOX   OOXO   OX O    O O      X    - Winner:Winner.black
+2020-12-01 18:52:16,912@connect4_zero.worker.self_play DEBUG # game 117 time=27.269001722335815 sec, turn=25:OXOXO XXOXXO OOX OX XXO XO O   XX     O    - Winner:Winner.white
+2020-12-01 18:54:07,752@connect4_zero.worker.self_play DEBUG # game 118 time=110.83849549293518 sec, turn=42:OXOXXOOOXXOOXXXOOXXOOOXXOOXXXOOOXOXOXXXOOX - Winner:Winner.draw
+2020-12-01 18:54:47,840@connect4_zero.worker.self_play DEBUG # game 119 time=40.08699655532837 sec, turn=27:OXOXOO  OXXXO  OXOXX  XOX X  XXO O  XOO    - Winner:Winner.white
+2020-12-01 18:56:13,298@connect4_zero.worker.self_play DEBUG # game 120 time=85.45800042152405 sec, turn=42:XOXXOOOOXXOOXXOOOXXOXXXOOOXOXOXXXOXOXOOXXO - Winner:Winner.draw
+2020-12-01 18:56:27,940@connect4_zero.worker.self_play DEBUG # game 121 time=14.642001390457153 sec, turn=15:XOXXOO  XOX    XXO    OOX                  - Winner:Winner.white
+2020-12-01 18:57:49,900@connect4_zero.worker.self_play DEBUG # game 122 time=81.96004843711853 sec, turn=42:XXOXOXOXOXXXOOXXXOOOXOOOXXOOXXXOOXXOOXOXOO - Winner:Winner.draw
+2020-12-01 18:59:09,661@connect4_zero.worker.self_play DEBUG # game 123 time=79.76099944114685 sec, turn=42:OXOXXOXXXXOOXOOOOXXOXOXXOOXXXOOXXOOOXXOOXO - Winner:Winner.draw
+2020-12-01 18:59:47,433@connect4_zero.worker.self_play DEBUG # game 124 time=37.74400281906128 sec, turn=29:XXOXOOXOOXXOOOX OXXXXO XOO  X OOX     X    - Winner:Winner.white
+2020-12-01 18:59:58,198@connect4_zero.worker.self_play DEBUG # game 125 time=10.7520010471344 sec, turn=14:XXOXOXO X OXO    XO     O                  - Winner:Winner.black
+2020-12-01 19:00:19,108@connect4_zero.worker.self_play DEBUG # game 126 time=20.904998302459717 sec, turn=19:XXXXOOX X OXOO O XO   X OO     X           - Winner:Winner.white
+2020-12-01 19:00:35,222@connect4_zero.worker.self_play DEBUG # game 127 time=16.107999086380005 sec, turn=19:OXOXO OOXXXX X OOX    X O      O      X    - Winner:Winner.white
+2020-12-01 19:01:13,215@connect4_zero.worker.self_play DEBUG # game 128 time=37.987003564834595 sec, turn=24:XOXOOOX XXOXX  OOXO   OXOO    XXX     O    - Winner:Winner.black
+2020-12-01 19:02:09,306@connect4_zero.worker.self_play DEBUG # game 129 time=56.08218479156494 sec, turn=39:XXOXOXXOOXXOOOXXOOXXXX XXOOXO OOXXOO OXOOX - Winner:Winner.white
+2020-12-01 19:02:29,362@connect4_zero.worker.self_play DEBUG # game 130 time=20.045000791549683 sec, turn=19:XXXXOOX X OXOO O XO   X OO     X           - Winner:Winner.white
+2020-12-01 19:03:08,236@connect4_zero.worker.self_play DEBUG # game 131 time=38.86500024795532 sec, turn=33:XXOOXXOXOXOOOXO OXXXXX XXO OO XOX  X OOO   - Winner:Winner.white
+2020-12-01 19:03:24,163@connect4_zero.worker.self_play DEBUG # game 132 time=15.926999568939209 sec, turn=19:OXOXXOX OXOOX   OXX    XX     OO           - Winner:Winner.white
+2020-12-01 19:04:46,867@connect4_zero.worker.self_play DEBUG # game 133 time=82.69736623764038 sec, turn=42:OXXXOOXOXOOXOXXOXXOXXOXOOOXOXOXXXOXOXOOXOO - Winner:Winner.draw
+2020-12-01 19:05:45,987@connect4_zero.worker.self_play DEBUG # game 134 time=59.119163513183594 sec, turn=37:OXOXOOXOXOOXXOXXXXOOO OOOXXX OXXOO  XOXXX  - Winner:Winner.white
+2020-12-01 19:05:58,439@connect4_zero.worker.self_play DEBUG # game 135 time=12.448001146316528 sec, turn=17:XXOX  OOXOX   XXXX    OOO      O           - Winner:Winner.white
+2020-12-01 19:06:18,422@connect4_zero.worker.self_play DEBUG # game 136 time=19.98200011253357 sec, turn=20:XOOOXX  OXXOX  XOOX    XOO     XO          - Winner:Winner.black
+2020-12-01 19:06:46,138@connect4_zero.worker.self_play DEBUG # game 137 time=27.710000038146973 sec, turn=25:OXOXO XXOXXO OOX OX XXO XO O   XX     O    - Winner:Winner.white
+2020-12-01 19:07:22,018@connect4_zero.worker.self_play DEBUG # game 138 time=35.87899589538574 sec, turn=33:OXOXOOXOXOOOXO OXXXXO OOO OX XXX X  XOX X  - Winner:Winner.white
+2020-12-01 19:07:39,742@connect4_zero.worker.self_play DEBUG # game 139 time=17.721004486083984 sec, turn=17:X OXOOXX XXOXO   OX     X      O      O    - Winner:Winner.white
+2020-12-01 19:08:43,287@connect4_zero.worker.self_play DEBUG # game 140 time=63.53000020980835 sec, turn=39:XXOXOXXOOXXOOXXXXOXOXOOOX XOOXXO OXXOOO XO - Winner:Winner.white
+2020-12-01 19:08:54,541@connect4_zero.worker.self_play DEBUG # game 141 time=11.252002000808716 sec, turn=15: XXOOOX OOXXXX O O      X                  - Winner:Winner.white
+2020-12-01 19:09:51,795@connect4_zero.worker.self_play DEBUG # game 142 time=57.22099947929382 sec, turn=37:OXOXOOXOXOOXXOXXXXOOO OOOXXX OXXOO  XOXXX  - Winner:Winner.white
+2020-12-01 19:10:00,711@connect4_zero.worker.self_play DEBUG # game 143 time=8.907003402709961 sec, turn=13: XOXXXX  OXO     OX     OO                 - Winner:Winner.white
+2020-12-01 19:11:07,115@connect4_zero.worker.self_play DEBUG # game 144 time=66.39899826049805 sec, turn=42:OXXXOOXOXOOXOXXOXXOOXOXOOXXOXOXXXOXOXOOOXO - Winner:Winner.draw
+2020-12-01 19:12:09,405@connect4_zero.worker.self_play DEBUG # game 145 time=62.288280963897705 sec, turn=39:OXOXOOOOXOOXXXXXXXXOXOO OOXXXX XXOOOO OOXX - Winner:Winner.white
+2020-12-01 19:13:11,638@connect4_zero.worker.self_play DEBUG # game 146 time=62.22197604179382 sec, turn=34:OOXXOXOXXOXXOXO XXO XO OOX OX XXO XO OOX O - Winner:Winner.black
+2020-12-01 19:14:13,721@connect4_zero.worker.self_play DEBUG # game 147 time=62.081748962402344 sec, turn=39:XOXXOOOOXXOOOXOOOXXXXXXOOO OXOXXX XXXOOX O - Winner:Winner.white
+2020-12-01 19:14:46,442@connect4_zero.worker.self_play DEBUG # game 148 time=32.72000026702881 sec, turn=31:O OXOOXO XXXXOO OO OXX XX XOX OO OX  XX OX - Winner:Winner.white
+2020-12-01 19:15:51,112@connect4_zero.worker.self_play DEBUG # game 149 time=64.65800309181213 sec, turn=37:OXOXXOXXOOXOXXXOOOXOOOXXX XOX XO XOO OO XX - Winner:Winner.white
+2020-12-01 19:16:30,974@connect4_zero.worker.self_play DEBUG # game 150 time=39.85599946975708 sec, turn=33:OXOXOOXOXXXXOXOO OOX XO XXX OX OOX  X OXO  - Winner:Winner.white
+2020-12-01 19:17:42,976@connect4_zero.worker.self_play DEBUG # game 151 time=71.99799966812134 sec, turn=38:OOOXOXXOXXOOOOXOOXX XOXXOX OXXOOX XOXXXO O - Winner:Winner.black
+2020-12-01 19:17:47,128@connect4_zero.worker.self_play DEBUG # game 152 time=4.151000022888184 sec, turn=9:OOOXXXX   O      X                         - Winner:Winner.white
+2020-12-01 19:18:53,672@connect4_zero.worker.self_play DEBUG # game 153 time=66.53374242782593 sec, turn=37:XOXXOOOOXXOOOXXOOXXXXOXXOO O OOXX O XXOX X - Winner:Winner.white
+2020-12-01 19:19:08,463@connect4_zero.worker.self_play DEBUG # game 154 time=14.78900408744812 sec, turn=15: XOXXO  OXX    OXO    XOX     O            - Winner:Winner.white
+2020-12-01 19:20:33,870@connect4_zero.worker.self_play DEBUG # game 155 time=85.39578747749329 sec, turn=42:XXOXXOXOOXXOXOXXOOXXOOOXOOOXXOOXXXOOXXOOOX - Winner:Winner.draw
+2020-12-01 19:20:39,066@connect4_zero.worker.self_play DEBUG # game 156 time=5.183005332946777 sec, turn=10: XOOOOX   X  X   O      X                  - Winner:Winner.black
+2020-12-01 19:20:54,837@connect4_zero.worker.self_play DEBUG # game 157 time=15.76600170135498 sec, turn=23:OOXXXOO XOOXO  OXXXX  X XOO    OX          - Winner:Winner.white
+2020-12-01 19:22:11,962@connect4_zero.worker.self_play DEBUG # game 158 time=77.1201810836792 sec, turn=42:XOXXOOOOXXOOXXOOOXXOXXXOOOXOXOXXXOXOXOOXXO - Winner:Winner.draw
+2020-12-01 19:24:08,360@connect4_zero.worker.self_play DEBUG # game 159 time=116.3969976902008 sec, turn=42:XOXXOOOXXOOXXOXOXXOOXOXOOXXOOOXXOOXOXXOXXO - Winner:Winner.draw
+2020-12-01 19:24:17,142@connect4_zero.worker.self_play DEBUG # game 160 time=8.78199577331543 sec, turn=13:XXXXOO  O X O  O O      X      X           - Winner:Winner.white
+2020-12-01 19:24:36,084@connect4_zero.worker.self_play DEBUG # game 161 time=18.938995838165283 sec, turn=21:OXOXXO OXXOX  OO XO  XX XX  O  O           - Winner:Winner.white
+2020-12-01 19:25:15,263@connect4_zero.worker.self_play DEBUG # game 162 time=39.17900252342224 sec, turn=32:XXOXOOXOOOXXXOXXXO  XOOOO  O XXX  X OOX  O - Winner:Winner.black
+2020-12-01 19:25:26,142@connect4_zero.worker.self_play DEBUG # game 163 time=10.878998279571533 sec, turn=17:XOOXO   XOXX   OXO    XOX      O      X    - Winner:Winner.white
+2020-12-01 19:25:41,028@connect4_zero.worker.self_play DEBUG # game 164 time=14.885001182556152 sec, turn=19:OXOXO OOXXXX X OOX    X O      O      X    - Winner:Winner.white
+2020-12-01 19:25:50,011@connect4_zero.worker.self_play DEBUG # game 165 time=8.98000168800354 sec, turn=13: XOXXO   XOO    OXX     OX                 - Winner:Winner.white
+2020-12-01 19:27:23,810@connect4_zero.worker.self_play DEBUG # game 166 time=93.79799580574036 sec, turn=42:OXOXXOOOXXOOXXXOOXXOOOXXOOXXXOOOXOXOXXXOOX - Winner:Winner.draw
+2020-12-01 19:27:30,008@connect4_zero.worker.self_play DEBUG # game 167 time=6.171002388000488 sec, turn=9:XXXXOO   OO      X                         - Winner:Winner.white
+2020-12-01 19:28:19,652@connect4_zero.worker.self_play DEBUG # game 168 time=49.641563415527344 sec, turn=34:XXOOOXXOOXOOOOX OXXX O XXOO X OOXX O XOXX  - Winner:Winner.black
+2020-12-01 19:29:16,133@connect4_zero.worker.self_play DEBUG # game 169 time=56.481271743774414 sec, turn=42:OOXXOXOXXXOOXXOOOXXXOXXXOOOXOOXOXOXOXOXOOX - Winner:Winner.draw
+2020-12-01 19:29:42,335@connect4_zero.worker.self_play DEBUG # game 170 time=26.18957805633545 sec, turn=21:X OXOO X OXXX   XOXO   OXX    X O    O O   - Winner:Winner.white
+2020-12-01 19:30:15,974@connect4_zero.worker.self_play DEBUG # game 171 time=33.63805794715881 sec, turn=28:XXOOXXOXOXOOOX  OXXXO   OOXX   XOO    OX   - Winner:Winner.black
+2020-12-01 19:31:20,908@connect4_zero.worker.self_play DEBUG # game 172 time=64.92453241348267 sec, turn=42:XXOXOOXOXXOOXXOOOXXXOXXXOOOXOOXOXXXOXOOOXO - Winner:Winner.draw
+2020-12-01 19:32:19,906@connect4_zero.worker.self_play DEBUG # game 173 time=58.995980978012085 sec, turn=42:XOOXOOXOXOOXXOOXXXOOOXOOOXXXXOXXXOOOXOXOXX - Winner:Winner.draw
+2020-12-01 19:32:55,633@connect4_zero.worker.self_play DEBUG # game 174 time=35.727126598358154 sec, turn=29:XXOXOOXOOXXOOOX OXXXXO XOO  X OOX     X    - Winner:Winner.white
+2020-12-01 19:33:47,854@connect4_zero.worker.self_play DEBUG # game 175 time=52.2190055847168 sec, turn=39:XXOXOXXOOXXOOXXXXOXOXOOOX XOOXXO OXXOOO XO - Winner:Winner.white
+2020-12-01 19:33:52,931@connect4_zero.worker.self_play DEBUG # game 176 time=5.072988748550415 sec, turn=9:XXXXO O   X  O   O                         - Winner:Winner.white
+2020-12-01 19:35:15,741@connect4_zero.worker.self_play DEBUG # game 177 time=82.80503988265991 sec, turn=42:OOOXOXOXXXOOXXOOXXXOXXXOOOXOXOOXXOXOXXOOXO - Winner:Winner.draw
+2020-12-01 19:36:23,602@connect4_zero.worker.self_play DEBUG # game 178 time=67.84378290176392 sec, turn=39:XXOXOXXOOXXOOXXXXOXOXOOOX XOOXXO OXXOOO XO - Winner:Winner.white
+2020-12-01 19:36:37,080@connect4_zero.worker.self_play DEBUG # game 179 time=13.477170705795288 sec, turn=17:OXOXO  OXXXX   OOX    X O      O      X    - Winner:Winner.white
+2020-12-01 19:37:39,838@connect4_zero.worker.self_play DEBUG # game 180 time=62.75631618499756 sec, turn=39:XXOXOXXOOXOXOOXOOXOOOOXX XXXOOX OOOXXO XXX - Winner:Winner.white
+2020-12-01 19:37:56,144@connect4_zero.worker.self_play DEBUG # game 181 time=16.299894332885742 sec, turn=17:O  XOOXX  XXX    OX     XO     XO     OO   - Winner:Winner.white
+2020-12-01 19:38:06,952@connect4_zero.worker.self_play DEBUG # game 182 time=10.806334972381592 sec, turn=15: XXOOOX OOXXXX O O      X                  - Winner:Winner.white
+2020-12-01 19:38:29,044@connect4_zero.worker.self_play DEBUG # game 183 time=22.086315870285034 sec, turn=25:OXXXO XXXOOX  OOXOX  OX XO  X  OX     OO   - Winner:Winner.white
+2020-12-01 19:40:30,500@connect4_zero.worker.self_play DEBUG # game 184 time=121.45120358467102 sec, turn=42:OXOXXXOXXOOXOXOXXXOOXXOOXXXOOOXOOOXXXOOXOO - Winner:Winner.draw
+2020-12-01 19:41:30,864@connect4_zero.worker.self_play DEBUG # game 185 time=60.3517107963562 sec, turn=40:XOXOXOXOXOOOXXOOOXXOXXXXOOXOXOOXXO OXXOOX  - Winner:Winner.black
+2020-12-01 19:41:41,279@connect4_zero.worker.self_play DEBUG # game 186 time=10.409997701644897 sec, turn=17:OXOXO  OXXXX   OOX    X O      O      X    - Winner:Winner.white
+2020-12-01 19:43:10,758@connect4_zero.worker.self_play DEBUG # game 187 time=89.4785053730011 sec, turn=38:XXOXOXXOOXXOOOX OOXXXO XXOOOX OOXXXX XOOOO - Winner:Winner.black
+2020-12-01 19:44:15,570@connect4_zero.worker.self_play DEBUG # game 188 time=64.8122456073761 sec, turn=39:XXOXOXXOOXXOOOXXOOXXXX XXOOXO OOXXOO OXOOX - Winner:Winner.white
+2020-12-01 19:44:58,570@connect4_zero.worker.self_play DEBUG # game 189 time=42.987157106399536 sec, turn=29:XXOXOOXOOXXOOOX OXXXXO XOO  X OOX     X    - Winner:Winner.white
+2020-12-01 19:46:51,416@connect4_zero.worker.self_play DEBUG # game 190 time=112.82915234565735 sec, turn=42:OXOXXOOOXXOOXXXOOXXOOOXXOOXXXOOOXOXOXXXOOX - Winner:Winner.draw
+2020-12-01 19:47:36,984@connect4_zero.worker.self_play DEBUG # game 191 time=45.56682729721069 sec, turn=30:XXOOXXOOOXOXOXXO XO  OX OO  XO XX  OX OX   - Winner:Winner.black
+2020-12-01 19:47:51,895@connect4_zero.worker.self_play DEBUG # game 192 time=14.907338857650757 sec, turn=16: XOXOX    OXO    OOO    XXO    XX          - Winner:Winner.black
+2020-12-01 19:49:28,160@connect4_zero.worker.self_play DEBUG # game 193 time=96.26560425758362 sec, turn=42:XXOOXOXOOXXOOXOXOOOXOXOXXXOOXXOOXXXOOXXXOO - Winner:Winner.draw
+2020-12-01 19:51:22,716@connect4_zero.worker.self_play DEBUG # game 194 time=114.55400824546814 sec, turn=42:OXOXOXXXXOXXOXOXXOOXXXOOOXOOXXXOOXXOOOXOOO - Winner:Winner.draw
+2020-12-01 19:52:27,347@connect4_zero.worker.self_play DEBUG # game 195 time=64.62799501419067 sec, turn=39:XXOXOXXOOXXOOOXXOOXXXX XXOOXO OOXXOO OXOOX - Winner:Winner.white
+2020-12-01 19:53:19,741@connect4_zero.worker.self_play DEBUG # game 196 time=52.3940007686615 sec, turn=38:OXOXXXOXOOOXOXOOXXOXXXXOXXOOOOXOO  OXXOX   - Winner:Winner.black
+2020-12-01 19:53:54,058@connect4_zero.worker.self_play DEBUG # game 197 time=34.315001249313354 sec, turn=31:OXOXOOXOXXXXOXOO OOX XO XXX  X OOX    OXO  - Winner:Winner.white
+2020-12-01 19:54:18,174@connect4_zero.worker.self_play DEBUG # game 198 time=24.112999200820923 sec, turn=23:X OXOOOX OXXXXX XOO  O OOX     XO     X    - Winner:Winner.white
+2020-12-01 19:55:01,927@connect4_zero.worker.self_play DEBUG # game 199 time=43.75099730491638 sec, turn=31:OXOXXOXOOXOOXOXOXXX  XXOXO  OXOX    XOO    - Winner:Winner.white
+2020-12-01 19:56:08,630@connect4_zero.worker.self_play DEBUG # game 200 time=66.68599772453308 sec, turn=39:XXOXOXXOOXXOOXXXXOXOXOOOX XOOXXO OXXOOO XO - Winner:Winner.white
+2020-12-01 19:57:10,453@connect4_zero.worker.self_play DEBUG # game 201 time=56.54400324821472 sec, turn=35:OXOXOXXOXOXOOX OOXXXX XXOOO  OXOXX  XOXOO  - Winner:Winner.white
+2020-12-01 19:57:53,060@connect4_zero.worker.self_play DEBUG # game 202 time=42.60000157356262 sec, turn=29:OXXXOOX XOXXXO  XOOOX  OXXOO   OXX    XOO  - Winner:Winner.white
+2020-12-01 19:59:21,620@connect4_zero.worker.self_play DEBUG # game 203 time=88.55399966239929 sec, turn=42:OOXXOOOXXXOOXOOOOXXOXXXXOOXXXOOXXOOOXXOOXX - Winner:Winner.draw
+2020-12-01 20:00:04,153@connect4_zero.worker.self_play DEBUG # game 204 time=42.53304123878479 sec, turn=30:OXXOXXOXXOOOXX  OXXO   XOOX   XXXO   OOOO  - Winner:Winner.black

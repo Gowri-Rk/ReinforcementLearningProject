@@ -1,0 +1,238 @@
+2020-11-20 22:13:29,955@chess_zero.manager INFO # config type: mini
+2020-11-20 23:27:28,050@chess_zero.manager INFO # config type: mini
+2020-11-20 23:29:19,795@chess_zero.manager INFO # config type: mini
+2020-11-20 23:29:30,821@chess_zero.manager INFO # config type: mini
+2020-11-20 23:29:32,433@h5py._conv DEBUG # Creating converter from 7 to 5
+2020-11-20 23:29:32,433@h5py._conv DEBUG # Creating converter from 5 to 7
+2020-11-20 23:29:32,433@h5py._conv DEBUG # Creating converter from 7 to 5
+2020-11-20 23:29:32,434@h5py._conv DEBUG # Creating converter from 5 to 7
+2020-11-20 23:31:00,090@chess_zero.manager INFO # config type: mini
+2020-11-20 23:31:08,998@tensorflow DEBUG # Falling back to TensorFlow client; we recommended you install the Cloud TPU client directly with pip install cloud-tpu-client.
+2020-11-20 23:38:58,522@chess_zero.manager INFO # config type: mini
+2020-11-20 23:42:41,757@chess_zero.manager INFO # config type: mini
+2020-11-20 23:42:43,391@h5py._conv DEBUG # Creating converter from 7 to 5
+2020-11-20 23:42:43,391@h5py._conv DEBUG # Creating converter from 5 to 7
+2020-11-20 23:42:43,391@h5py._conv DEBUG # Creating converter from 7 to 5
+2020-11-20 23:42:43,391@h5py._conv DEBUG # Creating converter from 5 to 7
+2020-11-20 23:42:56,616@chess_zero.agent.model_chess DEBUG # loading model from /Users/vijaylaxmid/ReinforcementLearning/project/chess-alpha-zero-master/data/model/model_best_config.json
+2020-11-20 23:42:56,617@tensorflow WARNING # From /Users/vijaylaxmid/opt/anaconda3/envs/alphago-rl/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:442: The name tf.placeholder is deprecated. Please use tf.compat.v1.placeholder instead.
+
+2020-11-20 23:42:56,625@tensorflow WARNING # From /Users/vijaylaxmid/opt/anaconda3/envs/alphago-rl/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:3543: The name tf.random_uniform is deprecated. Please use tf.random.uniform instead.
+
+2020-11-20 23:42:56,633@tensorflow WARNING # From /Users/vijaylaxmid/opt/anaconda3/envs/alphago-rl/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:1188: calling reduce_sum_v1 (from tensorflow.python.ops.math_ops) with keep_dims is deprecated and will be removed in a future version.
+Instructions for updating:
+keep_dims is deprecated, use keepdims instead
+2020-11-20 23:42:56,663@tensorflow WARNING # From /Users/vijaylaxmid/opt/anaconda3/envs/alphago-rl/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:112: The name tf.get_default_graph is deprecated. Please use tf.compat.v1.get_default_graph instead.
+
+2020-11-20 23:42:57,411@tensorflow WARNING # From /Users/vijaylaxmid/opt/anaconda3/envs/alphago-rl/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:1205: calling reduce_prod_v1 (from tensorflow.python.ops.math_ops) with keep_dims is deprecated and will be removed in a future version.
+Instructions for updating:
+keep_dims is deprecated, use keepdims instead
+2020-11-20 23:42:57,459@h5py._conv DEBUG # Creating converter from 3 to 5
+2020-11-20 23:43:26,619@chess_zero.manager INFO # config type: mini
+2020-11-20 23:43:26,701@h5py._conv DEBUG # Creating converter from 7 to 5
+2020-11-20 23:43:26,701@h5py._conv DEBUG # Creating converter from 5 to 7
+2020-11-20 23:43:26,701@h5py._conv DEBUG # Creating converter from 7 to 5
+2020-11-20 23:43:26,701@h5py._conv DEBUG # Creating converter from 5 to 7
+2020-11-20 23:43:29,449@chess_zero.worker.optimize DEBUG # loading best model
+2020-11-20 23:43:29,450@chess_zero.agent.model_chess DEBUG # loading model from /Users/vijaylaxmid/ReinforcementLearning/project/chess-alpha-zero-master/data/model/model_best_config.json
+2020-11-20 23:43:29,454@tensorflow WARNING # From /Users/vijaylaxmid/opt/anaconda3/envs/alphago-rl/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:442: The name tf.placeholder is deprecated. Please use tf.compat.v1.placeholder instead.
+
+2020-11-20 23:43:29,464@tensorflow WARNING # From /Users/vijaylaxmid/opt/anaconda3/envs/alphago-rl/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:3543: The name tf.random_uniform is deprecated. Please use tf.random.uniform instead.
+
+2020-11-20 23:43:29,472@tensorflow WARNING # From /Users/vijaylaxmid/opt/anaconda3/envs/alphago-rl/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:1188: calling reduce_sum_v1 (from tensorflow.python.ops.math_ops) with keep_dims is deprecated and will be removed in a future version.
+Instructions for updating:
+keep_dims is deprecated, use keepdims instead
+2020-11-20 23:43:29,505@tensorflow WARNING # From /Users/vijaylaxmid/opt/anaconda3/envs/alphago-rl/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:112: The name tf.get_default_graph is deprecated. Please use tf.compat.v1.get_default_graph instead.
+
+2020-11-20 23:43:30,226@tensorflow WARNING # From /Users/vijaylaxmid/opt/anaconda3/envs/alphago-rl/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:1205: calling reduce_prod_v1 (from tensorflow.python.ops.math_ops) with keep_dims is deprecated and will be removed in a future version.
+Instructions for updating:
+keep_dims is deprecated, use keepdims instead
+2020-11-20 23:43:30,271@h5py._conv DEBUG # Creating converter from 3 to 5
+2020-11-20 23:48:27,978@chess_zero.manager INFO # config type: mini
+2020-11-20 23:48:32,736@chess_zero.worker.optimize DEBUG # loading best model
+2020-11-20 23:48:32,736@chess_zero.agent.model_chess DEBUG # loading model from /Users/vijaylaxmid/ReinforcementLearning/project/chess-alpha-zero-master/data/model/model_best_config.json
+2020-11-20 23:48:32,740@tensorflow WARNING # From /Users/vijaylaxmid/opt/anaconda3/envs/alphago-rl/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:442: The name tf.placeholder is deprecated. Please use tf.compat.v1.placeholder instead.
+
+2020-11-20 23:48:32,748@tensorflow WARNING # From /Users/vijaylaxmid/opt/anaconda3/envs/alphago-rl/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:3543: The name tf.random_uniform is deprecated. Please use tf.random.uniform instead.
+
+2020-11-20 23:48:32,756@tensorflow WARNING # From /Users/vijaylaxmid/opt/anaconda3/envs/alphago-rl/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:1188: calling reduce_sum_v1 (from tensorflow.python.ops.math_ops) with keep_dims is deprecated and will be removed in a future version.
+Instructions for updating:
+keep_dims is deprecated, use keepdims instead
+2020-11-20 23:48:32,788@tensorflow WARNING # From /Users/vijaylaxmid/opt/anaconda3/envs/alphago-rl/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:112: The name tf.get_default_graph is deprecated. Please use tf.compat.v1.get_default_graph instead.
+
+2020-11-20 23:48:33,555@tensorflow WARNING # From /Users/vijaylaxmid/opt/anaconda3/envs/alphago-rl/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:1205: calling reduce_prod_v1 (from tensorflow.python.ops.math_ops) with keep_dims is deprecated and will be removed in a future version.
+Instructions for updating:
+keep_dims is deprecated, use keepdims instead
+2020-11-20 23:48:33,772@tensorflow WARNING # From /Users/vijaylaxmid/opt/anaconda3/envs/alphago-rl/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:153: The name tf.get_default_session is deprecated. Please use tf.compat.v1.get_default_session instead.
+
+2020-11-20 23:48:33,772@tensorflow WARNING # From /Users/vijaylaxmid/opt/anaconda3/envs/alphago-rl/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:158: The name tf.ConfigProto is deprecated. Please use tf.compat.v1.ConfigProto instead.
+
+2020-11-20 23:48:33,772@tensorflow WARNING # From /Users/vijaylaxmid/opt/anaconda3/envs/alphago-rl/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:163: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+2020-11-20 23:48:33,793@tensorflow WARNING # From /Users/vijaylaxmid/opt/anaconda3/envs/alphago-rl/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:333: The name tf.global_variables is deprecated. Please use tf.compat.v1.global_variables instead.
+
+2020-11-20 23:48:33,795@tensorflow WARNING # From /Users/vijaylaxmid/opt/anaconda3/envs/alphago-rl/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:341: The name tf.variables_initializer is deprecated. Please use tf.compat.v1.variables_initializer instead.
+
+2020-11-20 23:48:34,236@chess_zero.agent.model_chess DEBUG # loaded model digest = 259dc1c022276e4d6d2c7faa7b037a20ccac4b4a039cce14548ed47b45894b78
+2020-11-20 23:48:34,246@tensorflow WARNING # From /Users/vijaylaxmid/opt/anaconda3/envs/alphago-rl/lib/python3.6/site-packages/keras/optimizers.py:711: The name tf.train.Optimizer is deprecated. Please use tf.compat.v1.train.Optimizer instead.
+
+2020-11-20 23:48:34,251@tensorflow WARNING # From /Users/vijaylaxmid/opt/anaconda3/envs/alphago-rl/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:2759: The name tf.log is deprecated. Please use tf.math.log instead.
+
+2020-11-21 00:45:08,928@chess_zero.manager INFO # config type: mini
+2020-11-21 00:45:11,989@chess_zero.worker.optimize DEBUG # loading best model
+2020-11-21 00:45:11,989@chess_zero.agent.model_chess DEBUG # loading model from /Users/vijaylaxmid/ReinforcementLearning/project/chess-alpha-zero-master/data/model/model_best_config.json
+2020-11-21 00:45:11,992@tensorflow WARNING # From /Users/vijaylaxmid/opt/anaconda3/envs/alphago-rl/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:442: The name tf.placeholder is deprecated. Please use tf.compat.v1.placeholder instead.
+
+2020-11-21 00:45:12,000@tensorflow WARNING # From /Users/vijaylaxmid/opt/anaconda3/envs/alphago-rl/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:3543: The name tf.random_uniform is deprecated. Please use tf.random.uniform instead.
+
+2020-11-21 00:45:12,008@tensorflow WARNING # From /Users/vijaylaxmid/opt/anaconda3/envs/alphago-rl/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:1188: calling reduce_sum_v1 (from tensorflow.python.ops.math_ops) with keep_dims is deprecated and will be removed in a future version.
+Instructions for updating:
+keep_dims is deprecated, use keepdims instead
+2020-11-21 00:45:12,041@tensorflow WARNING # From /Users/vijaylaxmid/opt/anaconda3/envs/alphago-rl/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:112: The name tf.get_default_graph is deprecated. Please use tf.compat.v1.get_default_graph instead.
+
+2020-11-21 00:45:12,808@tensorflow WARNING # From /Users/vijaylaxmid/opt/anaconda3/envs/alphago-rl/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:1205: calling reduce_prod_v1 (from tensorflow.python.ops.math_ops) with keep_dims is deprecated and will be removed in a future version.
+Instructions for updating:
+keep_dims is deprecated, use keepdims instead
+2020-11-21 00:45:13,048@tensorflow WARNING # From /Users/vijaylaxmid/opt/anaconda3/envs/alphago-rl/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:153: The name tf.get_default_session is deprecated. Please use tf.compat.v1.get_default_session instead.
+
+2020-11-21 00:45:13,049@tensorflow WARNING # From /Users/vijaylaxmid/opt/anaconda3/envs/alphago-rl/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:158: The name tf.ConfigProto is deprecated. Please use tf.compat.v1.ConfigProto instead.
+
+2020-11-21 00:45:13,049@tensorflow WARNING # From /Users/vijaylaxmid/opt/anaconda3/envs/alphago-rl/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:163: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+2020-11-21 00:45:13,066@tensorflow WARNING # From /Users/vijaylaxmid/opt/anaconda3/envs/alphago-rl/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:333: The name tf.global_variables is deprecated. Please use tf.compat.v1.global_variables instead.
+
+2020-11-21 00:45:13,066@tensorflow WARNING # From /Users/vijaylaxmid/opt/anaconda3/envs/alphago-rl/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:341: The name tf.variables_initializer is deprecated. Please use tf.compat.v1.variables_initializer instead.
+
+2020-11-21 00:45:13,517@chess_zero.agent.model_chess DEBUG # loaded model digest = 259dc1c022276e4d6d2c7faa7b037a20ccac4b4a039cce14548ed47b45894b78
+2020-11-21 00:45:13,527@tensorflow WARNING # From /Users/vijaylaxmid/opt/anaconda3/envs/alphago-rl/lib/python3.6/site-packages/keras/optimizers.py:711: The name tf.train.Optimizer is deprecated. Please use tf.compat.v1.train.Optimizer instead.
+
+2020-11-21 00:45:13,532@tensorflow WARNING # From /Users/vijaylaxmid/opt/anaconda3/envs/alphago-rl/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:2759: The name tf.log is deprecated. Please use tf.math.log instead.
+
+2020-11-21 00:46:04,080@chess_zero.manager INFO # config type: distributed
+2020-11-21 00:46:06,063@chess_zero.agent.model_chess DEBUG # loading model from server
+2020-11-21 00:46:09,755@chess_zero.agent.model_chess DEBUG # loading model from /Users/vijaylaxmid/ReinforcementLearning/project/chess-alpha-zero-master/data/model/model_best_config.json
+2020-11-21 00:46:09,757@tensorflow WARNING # From /Users/vijaylaxmid/opt/anaconda3/envs/alphago-rl/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:442: The name tf.placeholder is deprecated. Please use tf.compat.v1.placeholder instead.
+
+2020-11-21 00:46:09,764@tensorflow WARNING # From /Users/vijaylaxmid/opt/anaconda3/envs/alphago-rl/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:3543: The name tf.random_uniform is deprecated. Please use tf.random.uniform instead.
+
+2020-11-21 00:46:09,772@tensorflow WARNING # From /Users/vijaylaxmid/opt/anaconda3/envs/alphago-rl/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:1188: calling reduce_sum_v1 (from tensorflow.python.ops.math_ops) with keep_dims is deprecated and will be removed in a future version.
+Instructions for updating:
+keep_dims is deprecated, use keepdims instead
+2020-11-21 00:46:09,804@tensorflow WARNING # From /Users/vijaylaxmid/opt/anaconda3/envs/alphago-rl/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:112: The name tf.get_default_graph is deprecated. Please use tf.compat.v1.get_default_graph instead.
+
+2020-11-21 00:46:10,564@tensorflow WARNING # From /Users/vijaylaxmid/opt/anaconda3/envs/alphago-rl/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:1205: calling reduce_prod_v1 (from tensorflow.python.ops.math_ops) with keep_dims is deprecated and will be removed in a future version.
+Instructions for updating:
+keep_dims is deprecated, use keepdims instead
+2020-11-21 00:46:43,110@chess_zero.manager INFO # config type: distributed
+2020-11-21 00:46:45,154@chess_zero.agent.model_chess DEBUG # loading model from server
+2020-11-21 00:46:48,484@chess_zero.agent.model_chess DEBUG # loading model from /Users/vijaylaxmid/ReinforcementLearning/project/chess-alpha-zero-master/data/model/model_best_config.json
+2020-11-21 00:46:48,486@tensorflow WARNING # From /Users/vijaylaxmid/opt/anaconda3/envs/alphago-rl/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:442: The name tf.placeholder is deprecated. Please use tf.compat.v1.placeholder instead.
+
+2020-11-21 00:46:48,493@tensorflow WARNING # From /Users/vijaylaxmid/opt/anaconda3/envs/alphago-rl/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:3543: The name tf.random_uniform is deprecated. Please use tf.random.uniform instead.
+
+2020-11-21 00:46:48,500@tensorflow WARNING # From /Users/vijaylaxmid/opt/anaconda3/envs/alphago-rl/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:1188: calling reduce_sum_v1 (from tensorflow.python.ops.math_ops) with keep_dims is deprecated and will be removed in a future version.
+Instructions for updating:
+keep_dims is deprecated, use keepdims instead
+2020-11-21 00:46:48,532@tensorflow WARNING # From /Users/vijaylaxmid/opt/anaconda3/envs/alphago-rl/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:112: The name tf.get_default_graph is deprecated. Please use tf.compat.v1.get_default_graph instead.
+
+2020-11-21 00:46:49,288@tensorflow WARNING # From /Users/vijaylaxmid/opt/anaconda3/envs/alphago-rl/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:1205: calling reduce_prod_v1 (from tensorflow.python.ops.math_ops) with keep_dims is deprecated and will be removed in a future version.
+Instructions for updating:
+keep_dims is deprecated, use keepdims instead
+2020-11-21 00:47:29,885@chess_zero.manager INFO # config type: mini
+2020-11-21 01:23:32,067@chess_zero.manager INFO # config type: mini
+2020-11-21 01:23:36,863@chess_zero.manager INFO # config type: mini
+2020-11-21 01:23:39,320@chess_zero.agent.model_chess DEBUG # loading model from /Users/vijaylaxmid/ReinforcementLearning/project/chess-alpha-zero-master/data/model/model_best_config.json
+2020-11-21 01:23:39,321@tensorflow WARNING # From /Users/vijaylaxmid/opt/anaconda3/envs/alphago-rl/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:442: The name tf.placeholder is deprecated. Please use tf.compat.v1.placeholder instead.
+
+2020-11-21 01:23:39,328@tensorflow WARNING # From /Users/vijaylaxmid/opt/anaconda3/envs/alphago-rl/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:3543: The name tf.random_uniform is deprecated. Please use tf.random.uniform instead.
+
+2020-11-21 01:23:39,336@tensorflow WARNING # From /Users/vijaylaxmid/opt/anaconda3/envs/alphago-rl/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:1188: calling reduce_sum_v1 (from tensorflow.python.ops.math_ops) with keep_dims is deprecated and will be removed in a future version.
+Instructions for updating:
+keep_dims is deprecated, use keepdims instead
+2020-11-21 01:23:39,367@tensorflow WARNING # From /Users/vijaylaxmid/opt/anaconda3/envs/alphago-rl/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:112: The name tf.get_default_graph is deprecated. Please use tf.compat.v1.get_default_graph instead.
+
+2020-11-21 01:23:40,088@tensorflow WARNING # From /Users/vijaylaxmid/opt/anaconda3/envs/alphago-rl/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:1205: calling reduce_prod_v1 (from tensorflow.python.ops.math_ops) with keep_dims is deprecated and will be removed in a future version.
+Instructions for updating:
+keep_dims is deprecated, use keepdims instead
+2020-11-21 01:24:57,787@chess_zero.manager INFO # config type: mini
+2020-11-21 01:24:59,863@chess_zero.agent.model_chess DEBUG # model files does not exist at /Users/vijaylaxmid/ReinforcementLearning/project/chess-alpha-zero-master/data/model/model_best_config.json and /Users/vijaylaxmid/ReinforcementLearning/project/chess-alpha-zero-master/data/model/model_best_weight.h5
+2020-11-21 01:24:59,863@tensorflow WARNING # From /Users/vijaylaxmid/opt/anaconda3/envs/alphago-rl/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:58: The name tf.get_default_graph is deprecated. Please use tf.compat.v1.get_default_graph instead.
+
+2020-11-21 01:24:59,863@tensorflow WARNING # From /Users/vijaylaxmid/opt/anaconda3/envs/alphago-rl/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:442: The name tf.placeholder is deprecated. Please use tf.compat.v1.placeholder instead.
+
+2020-11-21 01:24:59,864@tensorflow WARNING # From /Users/vijaylaxmid/opt/anaconda3/envs/alphago-rl/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:3543: The name tf.random_uniform is deprecated. Please use tf.random.uniform instead.
+
+2020-11-21 01:24:59,871@tensorflow WARNING # From /Users/vijaylaxmid/opt/anaconda3/envs/alphago-rl/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:1188: calling reduce_sum_v1 (from tensorflow.python.ops.math_ops) with keep_dims is deprecated and will be removed in a future version.
+Instructions for updating:
+keep_dims is deprecated, use keepdims instead
+2020-11-21 01:25:00,562@tensorflow WARNING # From /Users/vijaylaxmid/opt/anaconda3/envs/alphago-rl/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:1205: calling reduce_prod_v1 (from tensorflow.python.ops.math_ops) with keep_dims is deprecated and will be removed in a future version.
+Instructions for updating:
+keep_dims is deprecated, use keepdims instead
+2020-11-21 01:25:00,649@chess_zero.agent.model_chess DEBUG # save model to /Users/vijaylaxmid/ReinforcementLearning/project/chess-alpha-zero-master/data/model/model_best_config.json
+2020-11-21 01:25:00,659@tensorflow WARNING # From /Users/vijaylaxmid/opt/anaconda3/envs/alphago-rl/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:153: The name tf.get_default_session is deprecated. Please use tf.compat.v1.get_default_session instead.
+
+2020-11-21 01:25:00,659@tensorflow WARNING # From /Users/vijaylaxmid/opt/anaconda3/envs/alphago-rl/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:158: The name tf.ConfigProto is deprecated. Please use tf.compat.v1.ConfigProto instead.
+
+2020-11-21 01:25:00,659@tensorflow WARNING # From /Users/vijaylaxmid/opt/anaconda3/envs/alphago-rl/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:163: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+2020-11-21 01:25:00,677@tensorflow WARNING # From /Users/vijaylaxmid/opt/anaconda3/envs/alphago-rl/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:333: The name tf.global_variables is deprecated. Please use tf.compat.v1.global_variables instead.
+
+2020-11-21 01:25:00,678@tensorflow WARNING # From /Users/vijaylaxmid/opt/anaconda3/envs/alphago-rl/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:341: The name tf.variables_initializer is deprecated. Please use tf.compat.v1.variables_initializer instead.
+
+2020-11-21 01:25:02,115@chess_zero.agent.model_chess DEBUG # saved model digest 0a166eefe8ffee802374ad476f590d5a495ef66f9c1aa0102a407aec8be68f28
+2020-11-21 01:26:08,025@chess_zero.manager INFO # config type: mini
+2020-11-21 01:26:10,145@chess_zero.agent.model_chess DEBUG # model files does not exist at /Users/vijaylaxmid/ReinforcementLearning/project/chess-alpha-zero-master/data/model/model_best_config.json and /Users/vijaylaxmid/ReinforcementLearning/project/chess-alpha-zero-master/data/model/model_best_weight.h5
+2020-11-21 01:26:10,145@tensorflow WARNING # From /Users/vijaylaxmid/opt/anaconda3/envs/alphago-rl/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:58: The name tf.get_default_graph is deprecated. Please use tf.compat.v1.get_default_graph instead.
+
+2020-11-21 01:26:10,145@tensorflow WARNING # From /Users/vijaylaxmid/opt/anaconda3/envs/alphago-rl/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:442: The name tf.placeholder is deprecated. Please use tf.compat.v1.placeholder instead.
+
+2020-11-21 01:26:10,147@tensorflow WARNING # From /Users/vijaylaxmid/opt/anaconda3/envs/alphago-rl/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:3543: The name tf.random_uniform is deprecated. Please use tf.random.uniform instead.
+
+2020-11-21 01:26:10,153@tensorflow WARNING # From /Users/vijaylaxmid/opt/anaconda3/envs/alphago-rl/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:1188: calling reduce_sum_v1 (from tensorflow.python.ops.math_ops) with keep_dims is deprecated and will be removed in a future version.
+Instructions for updating:
+keep_dims is deprecated, use keepdims instead
+2020-11-21 01:26:10,842@tensorflow WARNING # From /Users/vijaylaxmid/opt/anaconda3/envs/alphago-rl/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:1205: calling reduce_prod_v1 (from tensorflow.python.ops.math_ops) with keep_dims is deprecated and will be removed in a future version.
+Instructions for updating:
+keep_dims is deprecated, use keepdims instead
+2020-11-21 01:26:10,927@chess_zero.agent.model_chess DEBUG # save model to /Users/vijaylaxmid/ReinforcementLearning/project/chess-alpha-zero-master/data/model/model_best_config.json
+2020-11-21 01:26:10,937@tensorflow WARNING # From /Users/vijaylaxmid/opt/anaconda3/envs/alphago-rl/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:153: The name tf.get_default_session is deprecated. Please use tf.compat.v1.get_default_session instead.
+
+2020-11-21 01:26:10,937@tensorflow WARNING # From /Users/vijaylaxmid/opt/anaconda3/envs/alphago-rl/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:158: The name tf.ConfigProto is deprecated. Please use tf.compat.v1.ConfigProto instead.
+
+2020-11-21 01:26:10,937@tensorflow WARNING # From /Users/vijaylaxmid/opt/anaconda3/envs/alphago-rl/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:163: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+2020-11-21 01:26:10,950@tensorflow WARNING # From /Users/vijaylaxmid/opt/anaconda3/envs/alphago-rl/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:333: The name tf.global_variables is deprecated. Please use tf.compat.v1.global_variables instead.
+
+2020-11-21 01:26:10,950@tensorflow WARNING # From /Users/vijaylaxmid/opt/anaconda3/envs/alphago-rl/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:341: The name tf.variables_initializer is deprecated. Please use tf.compat.v1.variables_initializer instead.
+
+2020-11-21 01:26:12,394@chess_zero.agent.model_chess DEBUG # saved model digest 635faa168a21fa9124a2d3d9c54766e1c517ecc9402779944ed2227f20ebe9c7
+2020-11-21 01:28:28,594@chess_zero.manager INFO # config type: mini
+2020-11-21 01:28:30,657@chess_zero.worker.optimize DEBUG # loading best model
+2020-11-21 01:28:30,658@chess_zero.agent.model_chess DEBUG # model files does not exist at /Users/vijaylaxmid/ReinforcementLearning/project/chess-alpha-zero-master/data/model/model_best_config.json and /Users/vijaylaxmid/ReinforcementLearning/project/chess-alpha-zero-master/data/model/model_best_weight.h5
+2020-11-24 01:31:32,780@chess_zero.manager INFO # config type: mini
+2020-11-24 01:31:46,803@chess_zero.agent.model_chess DEBUG # loading model from /Users/vijaylaxmid/ReinforcementLearning/project/chess-alpha-zero-master/data/model/model_best_config.json
+2020-11-24 01:31:46,805@tensorflow WARNING # From /Users/vijaylaxmid/opt/anaconda3/envs/rl/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:442: The name tf.placeholder is deprecated. Please use tf.compat.v1.placeholder instead.
+
+2020-11-24 01:31:46,812@tensorflow WARNING # From /Users/vijaylaxmid/opt/anaconda3/envs/rl/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:3543: The name tf.random_uniform is deprecated. Please use tf.random.uniform instead.
+
+2020-11-24 01:31:46,821@tensorflow WARNING # From /Users/vijaylaxmid/opt/anaconda3/envs/rl/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:1188: calling reduce_sum_v1 (from tensorflow.python.ops.math_ops) with keep_dims is deprecated and will be removed in a future version.
+Instructions for updating:
+keep_dims is deprecated, use keepdims instead
+2020-11-24 01:31:46,857@tensorflow WARNING # From /Users/vijaylaxmid/opt/anaconda3/envs/rl/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:112: The name tf.get_default_graph is deprecated. Please use tf.compat.v1.get_default_graph instead.
+
+2020-11-24 01:31:47,710@tensorflow WARNING # From /Users/vijaylaxmid/opt/anaconda3/envs/rl/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:1205: calling reduce_prod_v1 (from tensorflow.python.ops.math_ops) with keep_dims is deprecated and will be removed in a future version.
+Instructions for updating:
+keep_dims is deprecated, use keepdims instead
+2020-12-01 19:23:09,165@agent.model_chess DEBUG # loading model from /Users/vijaylaxmid/ReinforcementLearning/project/alpha_chess/generated_data/model/model_best_config.json
+2020-12-01 19:23:09,168@tensorflow WARNING # From /Users/vijaylaxmid/opt/anaconda3/envs/chess-agz/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:442: The name tf.placeholder is deprecated. Please use tf.compat.v1.placeholder instead.
+
+2020-12-01 19:23:09,177@tensorflow WARNING # From /Users/vijaylaxmid/opt/anaconda3/envs/chess-agz/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:3543: The name tf.random_uniform is deprecated. Please use tf.random.uniform instead.
+
+2020-12-01 19:23:09,183@tensorflow WARNING # From /Users/vijaylaxmid/opt/anaconda3/envs/chess-agz/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:1188: calling reduce_sum_v1 (from tensorflow.python.ops.math_ops) with keep_dims is deprecated and will be removed in a future version.
+Instructions for updating:
+keep_dims is deprecated, use keepdims instead
+2020-12-01 19:23:09,214@tensorflow WARNING # From /Users/vijaylaxmid/opt/anaconda3/envs/chess-agz/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:112: The name tf.get_default_graph is deprecated. Please use tf.compat.v1.get_default_graph instead.
+
+2020-12-01 19:23:09,940@tensorflow WARNING # From /Users/vijaylaxmid/opt/anaconda3/envs/chess-agz/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:1205: calling reduce_prod_v1 (from tensorflow.python.ops.math_ops) with keep_dims is deprecated and will be removed in a future version.
+Instructions for updating:
+keep_dims is deprecated, use keepdims instead
