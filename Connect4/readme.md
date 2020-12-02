@@ -14,3 +14,21 @@ Environment
 * Python 3.6.3
 * tensorflow-gpu: 1.3.0
 * Keras: 2.0.8
+
+
+Commands
+-----------------
+
+Self-Play
+python src/connect4_zero/run.py self
+
+Trainer
+python src/connect4_zero/run.py opt
+
+
+Evaluator
+python src/connect4_zero/run.py eval
+
+
+Game Play
+python src/connect4_zero/run.py eval
